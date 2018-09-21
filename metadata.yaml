@@ -1,0 +1,27 @@
+_repo: Bobbie-General-Manager-A-Novel_53891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prouty, Olive Higgins
+    alias: Higgins, Olive Chapin
+    birthdate: 1882
+    deathdate: 1974
+    gutenberg_agent_id: '8671'
+    url: http://www.gutenberg.org/2009/agents/8671
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Higgins_Prouty
+description: ''
+gutenberg_issued: '2017-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Families -- Fiction'
+- GITenberg
+title: 'Bobbie, General Manager: A Novel'
+url: http://www.gutenberg.org/ebooks/53891
